@@ -1,4 +1,4 @@
-## 🔄 User Registration Process – Flowchart
+## User Registration Process – Flowchart
 
 ### Objective  
 To clearly map out the workflow of the user registration process in the Airbnb Clone backend system.
