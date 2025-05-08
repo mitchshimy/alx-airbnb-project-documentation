@@ -11,6 +11,6 @@ The DFD covers:
 
 ## 🖼️ View Diagram
 
-![Data Flow Diagram](dfd/data-flow-diagram.png)
+![Data Flow Diagram](dfd/data-flow.png)
 
 
