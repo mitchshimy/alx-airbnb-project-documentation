@@ -10,6 +10,6 @@ The goal is to clearly define how different actors (Guest, Host, and Admin) inte
 - **Host**: Can register, list and manage properties, accept bookings, and receive payments.
 - **Admin**: Can manage users, listings, and oversee bookings and system operations.
 
-Click here to view the [Use Case Diagram](.use-case-diagram/use-case.png)
+Click here to view the [Use Case Diagram](use-case-diagram.png)
 
 
