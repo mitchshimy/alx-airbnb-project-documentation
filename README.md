@@ -15,7 +15,7 @@ Outlines the core features that the backend system supports, including:
 - Booking System
 - Payment Processing
 
-Includes a PNG diagram exported from Draw.io that visually represents these functionalities.
+Includes a diagram that visually represents these functionalities.
 
 📄 [View the details here →](./features-and-functionalities/README.md)
 
